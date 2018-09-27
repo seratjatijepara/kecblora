@@ -1,0 +1,2 @@
+# kecblora
+locatating posision
